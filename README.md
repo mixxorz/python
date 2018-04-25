@@ -30,12 +30,14 @@ Yes:
 ```python
 error_message = 'You have done something wrong'
 consolation_message = "It's okay. People make mistakes."
+scientific_names['pineapple'] = 'Ananus sativus'
 ```
 
 No:
 ```python
 error_message = "You have done something wrong"
 consolation_message = 'It\'s okay. People make mistakes'
+scientific_names["pineapple"] = "Ananus sativus"
 ```
 
 For triple-quoted strings however, always use double quotes, c/o [PEP 8 String Quotes](https://www.python.org/dev/peps/pep-0008/#string-quotes).
