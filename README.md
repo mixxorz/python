@@ -4,7 +4,7 @@ A Python style guide that doesn't make you think.
 
 ## Background
 
-You can read all about it in my [blog post](#insert-blog-post-link).
+You can read all about it in my [blog post](https://mitchel.me/2018/mitchs-unofficial-python-style-guide/).
 
 ## Rules
 * [Readable consistency](#readable-consistency)
