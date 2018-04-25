@@ -166,3 +166,5 @@ best_fruits = [
     and f.climate == 'cold'
 ]
 ```
+
+_1.0.0 (2018-04-25)_
