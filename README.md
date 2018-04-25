@@ -8,11 +8,12 @@ You can read all about it in my [blog post](#insert-blog-post-link).
 
 ## Rules
 * [Readable consistency](#readable-consistency)
-* [Follow PEP8](#follow-pep8)
+* [Follow PEP 8](#follow-pep-8)
 * [Almost always use single quotes](#almost-always-use-single-quotes)
 * [Line breaks and trailing commas](#line-breaks-and-trailing-commas)
 * [Long function calls](#long-function-calls)
-* [Long if statements, comprehensions](#long-if-statements-comprehensions)
+* [Long if statements](#long-if-statements)
+* [Long comprehensions](#long-comprehensions)
 
 ### Readable consistency
 Style guides are meant to enforce consistency and readability in your code base. But if being consistent sacrifices readability, then you’re better off being inconsistent.
