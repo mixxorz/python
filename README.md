@@ -42,6 +42,8 @@ scientific_names["pineapple"] = "Ananus sativus"
 
 For triple-quoted strings however, always use double quotes, c/o [PEP 8 String Quotes](https://www.python.org/dev/peps/pep-0008/#string-quotes).
 
+_Note: If double quotes is the default quote for your keyboard locale, use double quotes instead._
+
 ### Line breaks and trailing commas
 Break lists, sets, and dictionaries into multiple lines. The first item should be on the next line. Add a trailing comma.
 
