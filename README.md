@@ -159,15 +159,17 @@ if (
 ```
 
 ### Long comprehensions
-Break long list, set, and dictionary comprehensions into multiple lines. The first line should be the for statement.
+Break long list, set, and dictionary comprehensions into multiple lines. The
+item first, then the for statements, then the if statements.
 
 Yes:
 ```python
-best_fruits = [
-    f for f in fruits
-    if f.color == 'red'
-    and f.size == 'small'
-    and f.climate == 'cold'
+best_fruits_names = [
+    fruit.name
+    for fruit in fruits
+    if fruit.color == 'red'
+    and fruit.size == 'small'
+    and fruit.climate == 'cold'
 ]
 ```
 
