@@ -2,6 +2,8 @@
 
 A Python style guide that doesn't make you think.
 
+Update 2021: I've been using [black](https://github.com/psf/black) for a while now and I recommend you use that instead if your goal is to no have to think about code style anymore.
+
 ## Background
 
 You can read all about it in my [blog post](https://mitchel.me/2018/mitchs-unofficial-python-style-guide/).
